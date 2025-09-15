@@ -35,7 +35,7 @@ The goal of this project is to demonstrate how to transform a **raw, noisy datas
 ---
 
 ## 🌐 Live App
-Run locally at:  http://127.0.0.1:8000/
+You can run the app.py on local network by coding uvicorn app:app on the terminal.  
 
 ## 📸 Example
 ![Image 15 09 2025 at 18 06](https://github.com/user-attachments/assets/095f4e81-445d-4b0a-9649-ceb77641552c)
