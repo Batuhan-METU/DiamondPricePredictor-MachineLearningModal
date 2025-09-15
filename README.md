@@ -17,10 +17,10 @@
 ---
 
 ## 📂 Project Structure
-├── notebooks/ # EDA, Future Engineering and Model Development
-├── app/ # Web Application Code
-├── model/ # Trained ML Model Files
-├── requirements.txt # Dependencies
+- **Notebooks/** # EDA, Future Engineering and Model Development
+- **App/** # Web Application Code
+- **Model/** # Trained ML Model Files
+- **Requirements.txt** # Dependencies
 
 ## 🛠 Technologies Used
 - **Python**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
