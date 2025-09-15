@@ -1,4 +1,4 @@
-<h1 align="center">💎 Diamond Price Prediction App</h1>
+<h1 align="center">💎 Diamond Price Prediction App 💎</h1>
 
 ◐ This project predicts **diamond prices** using a cleaned and feature-engineered version of the Kaggle dataset. 
 
