@@ -1,6 +1,7 @@
 <h1 align="center">💎 Diamond Price Prediction App 💎</h1>
 
 ◐ This project predicts **diamond prices** using a cleaned and feature-engineered version of the Kaggle dataset. 
+=> **https://www.kaggle.com/datasets/amirhosseinmirzaie/diamonds-price-dataset**
 
 ◐ The process includes **Exploratory Data Analysis (EDA)**, **feature engineering**, **machine learning modeling**, and finally deploying the model as a **web application**.  
 
