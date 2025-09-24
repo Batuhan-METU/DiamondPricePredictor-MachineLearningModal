@@ -35,7 +35,7 @@ The goal of this project is to demonstrate how to transform a **raw, noisy datas
 ---
 
 ## 🌐 Live App
-You can access the website by the **following link**.
+You can access the website by the **following link**:
 **https://diamondpriceprediction-webapplication.onrender.com/**
 
 ## 📸 Example
