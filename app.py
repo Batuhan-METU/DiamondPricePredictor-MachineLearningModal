@@ -84,7 +84,7 @@ with open('30-diamond_model_complete.pkl', 'rb') as f:
 
 # ---- TITLE ----
 st.markdown("<h2>💎 Diamond Price Predictor</h2>", unsafe_allow_html=True)
-st.markdown("<p style='text-align:center;color:#f0f0f0;'>Predict the price of a diamond using its characteristics</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center;color:#f0f0f0;'>Predict the price of a diamond using its characteristics based on a dataset on Kaggle!!</p>", unsafe_allow_html=True)
 
 # ---- INPUTS ----
 with st.container():
